@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Snake Game, Jared Wogan
 # Version 1.0
 # May 14, 2020
